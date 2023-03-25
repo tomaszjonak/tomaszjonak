@@ -6,7 +6,6 @@ Software dev at Graphiant, previously Kentik.
 Recruiters pls[^note]
 
 [^note]:
-    Reach out via linkedin, that's what it's for.
     Emails stored in some lead db scraped from github are not the best way to reach out.
     My work email may not be the best idea either.
     At least include tech stack.
