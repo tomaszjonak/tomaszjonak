@@ -1,7 +1,5 @@
 Rust and cursing at debian buildsystems by day. Go, Python, C, C++ as needed. Probably coding something related to networks.
-Bashing my head against DPDK/VPP when required.
-
-Software dev at Graphiant, previously Kentik.
+Bashing my head against DPDK/VPP when required. Lately pivoting into ebpf.
 
 Recruiters pls[^note]
 
