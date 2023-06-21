@@ -1,5 +1,5 @@
-Rust and cursing at debian buildsystems by day. Go, Python, C, C++ as needed. Probably coding something related to networks.
-Bashing my head against DPDK/VPP when required. Lately pivoting into eBPF via https://github.com/deepfence/ebpfguard.
+Rust and cursing at kernel verfier/ebpf by day. Go, Python, C, C++ as needed. Probably coding something related to networks.
+Slowly making https://github.com/deepfence/ebpfguard usable.
 
 Recruiters pls[^note]
 
