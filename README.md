@@ -1,5 +1,4 @@
-Rust and cursing at kernel verfier/ebpf by day. Go, Python, C, C++ as needed. Probably coding something related to networks.
-Slowly making https://github.com/deepfence/ebpfguard usable.
+Rust by day. Go, Python, C, C++ as needed. Probably coding something related to networks.
 
 Recruiters pls[^note]
 
